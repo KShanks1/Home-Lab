@@ -26,7 +26,7 @@ Shared folder settings with users etc. I definitely enjoyed this. Please feel fr
 
 - Creating VMs on the same subnet
 - Installing Active Directory 
-- Creating Users & Assigning them access 
+- Creating Users & Assigning access 
 - Setting Group Policies 
-- Ping to the local server I created
-- Giving users access to folders
+- Ping to local server I created
+- Giving users access to folders in AD
