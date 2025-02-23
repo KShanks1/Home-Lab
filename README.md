@@ -21,8 +21,8 @@ Shared folder settings with users etc. I definitely enjoyed this. Please feel fr
 <h2>Operating Systems Used </h2>
 
 - Windows 10
-- Windows Server 2019</b> (21H2)
-
+- Windows Server 2019</b>
+  
 <h2>List of Prerequisites</h2>
 
 - Creating VMs on the same subnet
