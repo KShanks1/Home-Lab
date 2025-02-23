@@ -13,9 +13,9 @@ Shared folder settings with users etc. I definitely enjoyed this. Please feel fr
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
-- Internet Information Services (IIS)
+- CMD 
 
 <h2>Operating Systems Used </h2>
 
