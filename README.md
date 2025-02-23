@@ -3,8 +3,8 @@
 </p>
 
 <h1>Home Lab</h1>
-ThisThis is me creating a Home lab in Azure. I used 2 VMs, connected one VM to the local host I set up. I used Active Directory, created users, set GPOs, and admin capabilities. 
-Shared folder settings with users etc. I definitely enjoyed this. Please feel free to speed this up, I didn't realize how long this was. .<br />
+This is me creating a Home lab in Azure. I used 2 VMs, connected one VM to the local host I set up. I used Active Directory, created users, set GPOs, and admin capabilities. 
+Shared folder settings with users etc. I definitely enjoyed this. Please feel free to speed this up, I didn't realize how long this was. <br />
 
 
 <h2>Video Demonstration</h2>
@@ -15,7 +15,8 @@ Shared folder settings with users etc. I definitely enjoyed this. Please feel fr
 
 - Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
-- CMD 
+- CMD
+- Active Directory
 
 <h2>Operating Systems Used </h2>
 
